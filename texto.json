@@ -1,9 +1,10 @@
 {
 "result":[
-"A": {"https://www.mediafire.com/file/4w2n90bhup7pzpj/Aoi_Sekai_no_%28Espa%C3%B1ol_Latino%29_01_%5BCrisAnime%5D.mp4/file"},
-
-"B": {"https://www.mediafire.com/file/dkyfdb9peulujve/comandos.txt.zip/file"}
-] }
+ {"A": "https://www.mediafire.com/file/4w2n90bhup7pzpj/Aoi_Sekai_no_%28Espa%C3%B1ol_Latino%29_01_%5BCrisAnime%5D.mp4/file"
+},
+ {
+"B": "https://www.mediafire.com/file/dkyfdb9peulujve/comandos.txt.zip/file"
+}] }
 
 
 

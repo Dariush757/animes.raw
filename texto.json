@@ -1,13 +1,14 @@
 {
 "result":[
- {"A": "https://www.mediafire.com/file/4w2n90bhup7pzpj/Aoi_Sekai_no_%28Espa%C3%B1ol_Latino%29_01_%5BCrisAnime%5D.mp4/file"
+ {
+"JujutsuKaisen": {
+"cap1" : "https://www.mediafire.com/file/fkrknrtp332z3xw/%255BACW%255D%255BAL%255DJuK4%2521-01%255BTAL%255D.rar/file"
+},
+"cap2": ""
 },
  {
 "B": "https://www.mediafire.com/file/dkyfdb9peulujve/comandos.txt.zip/file"
-}] }
+}
 
-
-
-
-
-
+  ]
+}
